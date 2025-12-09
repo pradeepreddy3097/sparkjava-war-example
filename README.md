@@ -1,4 +1,4 @@
-# sparkjava-war-example
+# sparkjava-war-example-mahesh
 Build war with maven and sparkjava framework
 
 Steps:
